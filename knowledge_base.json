@@ -1,0 +1,10 @@
+[
+    {
+        "question": "What is Python?",
+        "answer": "Python is a high-level, interpreted programming language."
+    },
+    {
+        "question": "What is a neural network?",
+        "answer": "A neural network is a series of algorithms that attempt to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates."
+    }
+]
